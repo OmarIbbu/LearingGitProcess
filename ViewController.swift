@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     func clearLog(){
         print("Succes")
         print("Fail")
+        print("Successfully")
+        print("Add new Line")
     }
 
 
