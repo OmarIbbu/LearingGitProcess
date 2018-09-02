@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
     func clearLog(){
         print("Successfully")
+        print("Add new Line")
     }
 
 
