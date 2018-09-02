@@ -15,9 +15,10 @@ class ViewController: UIViewController {
         
     }
 
-func clearLog(){
-print("Succes")
-}
+    func clearLog(){
+        print("Succes")
+        print("Fail")
+    }
 
 
 }
